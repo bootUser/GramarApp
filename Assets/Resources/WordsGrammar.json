@@ -1,0 +1,787 @@
+{
+    "items": [
+        {
+            "name": "Привередливый",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 6,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 9,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Привереда",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Причудливый",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 7,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Неприступный",
+            "mistakes": [
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Примитивный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 6,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Неприхотливый",
+            "mistakes": [
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Привлекательный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прилежный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пригодный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пригожий",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приятный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Привилегия",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приоритет",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приключение",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Привидение",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Причина",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приверженец",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Присяга",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Присягать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приказ",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приказать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Присутствовать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приурочить",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Придираться",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Притязать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Беспристрастный",
+            "mistakes": [
+                {
+                    "index": 5,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пристрастие",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Примадонна",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 7,
+                    "strType": "DoubleLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приватный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приватизация",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прибор",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Неприязнь",
+            "mistakes": [
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прибаутка",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прискорбный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "без Прикрас",
+            "mistakes": [
+                {
+                    "index": 6,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Приумножить",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пренебрегать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 7,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прелестный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преподобный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преследовать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пресмыкаться",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Президент",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Препятствие",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Препона",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Премьера",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Претензия",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Претендент",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Препарат",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прегрешения",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преимущество",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преамбула",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Предел",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преткновение",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Превратности",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Препинания",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Престижный",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Беспредельный",
+            "mistakes": [
+                {
+                    "index": 5,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Пресловутый",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Презентация",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                },
+                {
+                    "index": 4,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прерогатива",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Претерпевать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Превалировать",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Префектура",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Прецедент",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        },
+        {
+            "name": "Преувеличить",
+            "mistakes": [
+                {
+                    "index": 2,
+                    "strType": "WrongLetter"
+                }
+            ],
+            "tags": ["Пре-При"],
+            "countOfTrainings": 0
+        }
+    ]
+}
